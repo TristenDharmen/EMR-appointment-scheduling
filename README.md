@@ -35,3 +35,6 @@ In a real system:
 - React
 - Tailwind CSS
 - Python 3.x
+
+## LIVE DEMO
+- https://emr-appointment-scheduling-jg9odbxn1-tristendharmens-projects.vercel.app
